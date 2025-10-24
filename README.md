@@ -16,3 +16,6 @@ https://square.github.io/pysurvival/index.html
 
 https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC
 
+## More Applied Data Science with Python Specialization
+
+https://www.coursera.org/specializations/more-applied-data-science-with-python
